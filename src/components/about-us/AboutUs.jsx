@@ -3,11 +3,11 @@ import { useState, useEffect } from "react";
 
 const AboutUs = () => {
     
-  const click = () => {
-    console.log("click");
-  };
-
   useEffect(() => {
+    const click = () => {
+      console.log("click");
+    };
+
     window.addEventListener("click", click);
 
     return () => {
