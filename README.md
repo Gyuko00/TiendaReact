@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Tienda React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un proyecto de tienda online desarrollado con React.
+
+## Características
+- Listado de productos
+- Detalles de producto
+- Carrito de compras
+- Página de contacto
+- Página Acerca de nosotros
 
 ## Available Scripts
 
