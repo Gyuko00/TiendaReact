@@ -1,8 +1,8 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
 
 const AboutUs = () => {
-    
+
   useEffect(() => {
     const click = () => {
       console.log("click");
